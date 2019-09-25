@@ -1,8 +1,5 @@
 enable
-clock set 19:52:00 25 september 2019
 configure terminal
-clock timezone GMT -3
-show clock
 hostname RT-01
 banner motd "ACESSO PERMITIDO PARA PESSOAS AUTORIZADAS
 username kauealcaraz privilege 15 secret kaue123
